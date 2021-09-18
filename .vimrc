@@ -13,7 +13,8 @@ Plugin 'yggdroot/indentline'
 Plugin 'pangloss/vim-javascript' 
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdtree' 
-Plugin 'neoclide/coc.nvim'
+Plugin 'neoclide/coc.nvim' 
+Plugin 'mkitt/tabline.vim' 
 source ~/.vim/settings/setting.vim  
 color otgon  
 
